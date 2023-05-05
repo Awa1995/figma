@@ -1,0 +1,566 @@
+@import url("https://cdnjs.cloudflare.com/ajax/libs/meyer-reset/2.0/reset.min.css");
+@import url("https://fonts.googleapis.com/css?family=Inter:400,700,600|Lato:400,700,500,600");
+/* The following line is used to measure usage of this code in production. For more info see our usage billing page */
+@import url("https://px.animaapp.com/64539bc88b4e7062cd31aa28.64539bd182e708c598bdc8c3.64539bd4d88f082f8741ebe8.hcp.png");
+
+
+
+.screen a {
+  display: contents;
+  text-decoration: none;
+}
+
+.container-center-horizontal {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  pointer-events: none;
+  width: 100%;
+}
+
+.container-center-horizontal > * {
+  flex-shrink: 0;
+  pointer-events: auto;
+}
+
+.listeners-active,
+.listeners-active * {
+  pointer-events: auto;
+}
+
+.hidden,
+.hidden * {
+  pointer-events: none;
+  visibility: hidden;
+}
+
+.listeners-active-click,
+.listeners-active-click * {
+  cursor: pointer;
+}
+
+* {
+  box-sizing: border-box;
+}
+/* screen - macbook-pro-16-2 */
+
+.macbook-pro-16-2 {
+  align-items: flex-start;
+  background-color: var(--white);
+  border: 1px none;
+  display: flex;
+  height: 1117px;
+  justify-content: center;
+  overflow: hidden;
+  width: 1728px;
+}
+
+.macbook-pro-16-2 .overlap-group1 {
+  height: 1744px;
+  margin-top: -10px;
+  position: relative;
+  width: 1748px;
+}
+
+.macbook-pro-16-2 .overlap-group2 {
+  height: 1744px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1748px;
+}
+
+.macbook-pro-16-2 .frame-4 {
+  left: 0;
+  top: 0;
+}
+
+.macbook-pro-16-2 .nnav {
+  background-color: var(--hairy-heath);
+  height: 85px;
+  min-width: 1728px;
+  position: relative;
+}
+
+.macbook-pro-16-2 .bars-solid-2 {
+  height: 512px;
+}
+
+.macbook-pro-16-2 .vector {
+  height: 30px;
+  min-width: 30px;
+  position: relative;
+}
+
+.macbook-pro-16-2 .vector-1 {
+  height: 22.5px;
+  min-width: 30px;
+  position: relative;
+}
+
+.macbook-pro-16-2 .bars-solid-1 {
+  height: 427.5px;
+}
+
+.macbook-pro-16-2 .angle-down-solid-3 {
+  height: 512px;
+  margin-bottom: -568.00px;
+  margin-left: -904.00px;
+  min-width: 448px;
+  position: relative;
+}
+
+.macbook-pro-16-2 .ellipse-1 {
+  height: 75px;
+  left: 39px;
+  object-fit: cover;
+  position: absolute;
+  top: 13px;
+  width: 75px;
+}
+
+.macbook-pro-16-2 .vector-2 {
+  height: 11px;
+  left: 1680px;
+  position: absolute;
+  top: 1094px;
+  width: 21px;
+}
+
+.macbook-pro-16-2 .angle-down-solid-1 {
+  height: 25px;
+  left: 1678px;
+  position: absolute;
+  top: 1086px;
+  transform: rotate(-180.00deg);
+  width: 25px;
+}
+
+.macbook-pro-16-2 .magnifying-glass-solid-1 {
+  height: 20px;
+  left: 1649px;
+  position: absolute;
+  top: 296px;
+  width: 20px;
+}
+
+.macbook-pro-16-2 .overlap-group {
+  align-items: center;
+  background-color: var(--kilamanjaro);
+  display: flex;
+  height: 58px;
+  justify-content: flex-end;
+  left: 10px;
+  min-width: 1728px;
+  padding: 0 98px;
+  position: absolute;
+  top: 1069px;
+}
+
+.macbook-pro-16-2 .flex-container {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 1.5px;
+  height: 38px;
+  margin-top: 2.0px;
+  position: relative;
+  width: 186px;
+}
+
+.macbook-pro-16-2 .text0 {
+  letter-spacing: 0;
+  line-height: normal;
+  position: relative;
+  width: 186px;
+}
+
+.macbook-pro-16-2 .text1 {
+  letter-spacing: 0;
+  line-height: normal;
+  position: relative;
+  white-space: nowrap;
+  width: 186px;
+}
+
+.macbook-pro-16-2 .vector-3 {
+  height: 30px;
+  margin-bottom: 4.0px;
+  margin-left: 493px;
+  width: 30px;
+}
+
+.macbook-pro-16-2 .instagram-1 {
+  height: 30px;
+  margin-bottom: 2.0px;
+  margin-left: 51px;
+  object-fit: cover;
+  width: 30px;
+}
+
+.macbook-pro-16-2 .whatsapp-1 {
+  height: 30px;
+  margin-bottom: 4.0px;
+  margin-left: 49px;
+  object-fit: cover;
+  width: 30px;
+}
+
+.macbook-pro-16-2 .ellipse-2 {
+  height: 50px;
+  margin-left: 610px;
+  object-fit: cover;
+  width: 50px;
+}
+
+.macbook-pro-16-2 .rectangle-11 {
+  background-color: var(--white);
+  box-shadow: 0px 4px 4px #00000040;
+  height: 980px;
+  left: 10px;
+  position: absolute;
+  top: 89px;
+  width: 1728px;
+}
+
+.macbook-pro-16-2 .edition {
+  left: 1019px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 1002px;
+  white-space: nowrap;
+}
+
+.macbook-pro-16-2 .management {
+  left: 1351px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 1002px;
+  white-space: nowrap;
+}
+
+.macbook-pro-16-2 .residences {
+  left: 641px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 1002px;
+  white-space: nowrap;
+}
+
+.macbook-pro-16-2 .ateliers {
+  left: 287px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 1002px;
+  white-space: nowrap;
+}
+
+.macbook-pro-16-2 .evenements-culturels {
+  left: 1318px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 686px;
+  white-space: nowrap;
+}
+
+.macbook-pro-16-2 .spectacles {
+  left: 999px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 686px;
+  white-space: nowrap;
+}
+
+.macbook-pro-16-2 .cinma {
+  left: 660px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 686px;
+  white-space: nowrap;
+}
+
+.macbook-pro-16-2 .pagne-tiss {
+  left: 277px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 686px;
+  white-space: nowrap;
+}
+
+.macbook-pro-16-2 .oeuvres-d-art {
+  left: 987px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 368px;
+  white-space: nowrap;
+}
+
+.macbook-pro-16-2 .shooting {
+  left: 1364px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 363px;
+  white-space: nowrap;
+}
+
+.macbook-pro-16-2 .habillement {
+  left: 275px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 368px;
+  white-space: nowrap;
+}
+
+.macbook-pro-16-2 .services {
+  color: var(--kilamanjaro);
+  font-family: var(--font-family-inter);
+  font-size: var(--font-size-xl3);
+  font-weight: 700;
+  left: 187px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 121px;
+}
+
+.macbook-pro-16-2 .text-1 {
+  color: var(--black);
+  font-family: var(--font-family-inter);
+  font-size: var(--font-size-xl3);
+  font-weight: 700;
+  left: 333px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 121px;
+}
+
+.macbook-pro-16-2 .rectangle-12 {
+  height: 980px;
+  left: 10px;
+  position: absolute;
+  top: 89px;
+  width: 145px;
+}
+
+.macbook-pro-16-2 .rectangle-13 {
+  height: 980px;
+  left: 1603px;
+  position: absolute;
+  top: 89px;
+  width: 135px;
+}
+
+.macbook-pro-16-2 .frame-5 {
+  border: 3px solid;
+  border-color: var(--hairy-heath);
+  border-radius: 10px;
+  left: 181px;
+  top: 180px;
+}
+
+.macbook-pro-16-2 .rectangle-14-2 {
+  height: 158px;
+  margin-bottom: -8.00px;
+  margin-left: -4.00px;
+  margin-right: -4.00px;
+  min-width: 308px;
+  position: relative;
+}
+
+.macbook-pro-16-2 .frame-14 {
+  border: 3px solid;
+  border-color: var(--hairy-heath);
+  border-radius: 10px;
+  left: 181px;
+  top: 498px;
+}
+
+.macbook-pro-16-2 .rectangle-14 {
+  height: 150px;
+  min-width: 300px;
+  object-fit: cover;
+  position: relative;
+}
+
+.macbook-pro-16-2 .frame-18 {
+  border: 3px solid;
+  border-color: var(--hairy-heath);
+  border-radius: 10px;
+  left: 174px;
+  top: 816px;
+}
+
+.macbook-pro-16-2 .frame-19 {
+  border: 3px solid;
+  border-color: var(--hairy-heath);
+  border-radius: 10px;
+  left: 537px;
+  top: 817px;
+}
+
+.macbook-pro-16-2 .frame-20 {
+  border: 3px solid;
+  border-color: var(--hairy-heath);
+  border-radius: 10px;
+  left: 893px;
+  top: 816px;
+}
+
+.macbook-pro-16-2 .rectangle-14-1 {
+  height: 150px;
+  min-width: 300px;
+  position: relative;
+}
+
+.macbook-pro-16-2 .frame-21 {
+  border: 3px solid;
+  border-color: var(--hairy-heath);
+  border-radius: 10px;
+  left: 1248px;
+  top: 817px;
+}
+
+.macbook-pro-16-2 .frame-15 {
+  border: 3px solid;
+  border-color: var(--hairy-heath);
+  border-radius: 10px;
+  left: 537px;
+  top: 498px;
+}
+
+.macbook-pro-16-2 .frame-16 {
+  border: 3px solid;
+  border-color: var(--hairy-heath);
+  border-radius: 10px;
+  left: 893px;
+  top: 498px;
+}
+
+.macbook-pro-16-2 .frame-17 {
+  border: 3px solid;
+  border-color: var(--hairy-heath);
+  border-radius: 10px;
+  left: 1248px;
+  top: 498px;
+}
+
+.macbook-pro-16-2 .frame-11 {
+  border: 3px solid;
+  border-color: var(--hairy-heath);
+  border-radius: 10px;
+  left: 537px;
+  top: 180px;
+}
+
+.macbook-pro-16-2 .frame-12 {
+  border: 3px solid;
+  border-color: var(--hairy-heath);
+  border-radius: 10px;
+  left: 893px;
+  top: 180px;
+}
+
+.macbook-pro-16-2 .frame-13 {
+  border: 3px solid;
+  border-color: var(--hairy-heath);
+  border-radius: 10px;
+  left: 1248px;
+  top: 180px;
+}
+
+.macbook-pro-16-2 .dcoration {
+  left: 643px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 368px;
+  white-space: nowrap;
+}
+
+.macbook-pro-16-2 .vector-4 {
+  height: 20px;
+  left: 1538px;
+  position: absolute;
+  top: 131px;
+  width: 20px;
+}
+
+.macbook-pro-16-2 .de-l-art-pour-l-art-par-l-art {
+  left: 662px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 31px;
+}
+
+.macbook-pro-16-2 .bars-solid {
+  min-width: 448px;
+  position: relative;
+}
+
+.macbook-pro-16-2 .frame {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  padding: 10px;
+  position: absolute;
+  width: fit-content;
+}
+:root { 
+  --black: #000000;
+  --fuel-yellow: #e3ac30;
+  --hairy-heath: #6e2d0b;
+  --kilamanjaro: #200701;
+  --white: #ffffff;
+ 
+  --font-size-m: 20px;
+  --font-size-xl3: 32px;
+  --font-size-xs: 15px;
+ 
+  --font-family-inter: "Inter", Helvetica;
+  --font-family-lato: "Lato", Helvetica;
+}
+.inter-semi-bold-kilamanjaro-20px {
+  color: var(--kilamanjaro);
+  font-family: var(--font-family-inter);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 600;
+}
+
+.lato-medium-fuel-yellow-15px {
+  color: var(--fuel-yellow);
+  font-family: var(--font-family-lato);
+  font-size: var(--font-size-xs);
+  font-style: normal;
+  font-weight: 500;
+}
+
+.inter-semi-bold-black-20px {
+  color: var(--black);
+  font-family: var(--font-family-inter);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 600;
+}
+
+.inter-normal-fuel-yellow-32px {
+  color: var(--fuel-yellow);
+  font-family: var(--font-family-inter);
+  font-size: var(--font-size-xl3);
+  font-style: normal;
+  font-weight: 400;
+}
